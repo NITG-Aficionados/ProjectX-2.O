@@ -27,13 +27,13 @@
 
 ### Teams :triangular_flag_on_post:
 
-| `Team`| `Captain`| `Experiences/Interests`| `Contact` | `Profile` |
-|:---:|:---------:|:---:|:---:|:---:|
-| |Gautam Mishra \| Rahul Priolkar| | | |
-| Code Connoisseurs | [Archit](https://www.linkedin.com/in/garg4/) \| [Sangram Patil]() | Data Structure & Algorithms \| Deep Learning \| Web Dev | | [Profile 1] \|  |
-| | Ashutosh Kabra \| Aditya Tirmanwar| Data Structure & Algorithms \| Game Theory \| ML \| Cloud Computing \| Web Dev | | |
-| Conquerers in Action | Prakhar Gupta \| Saswat Anoop| Data Structure & Algorithms(CP) \| ML \| Android Dev \| Cross Platform App Dev \| Data Science | | |
-| Innoverts | Ved Prakash \| Anit Mahato| Data Structure & Algorithms \| ML \| Deep Learning \| Android Dev \| Cross Platform App Dev| | |
+| `Team`| `Captain`| `Experiences/Interests`| `Contact` |
+|:---:|:---------:|:---:|:---:|
+| |[Gautam Mishra](https://www.linkedin.com/in/gautam-mishra-446397a7/) \| [Rahul Priolkar](https://www.linkedin.com/in/rahul-priolkar-46938616a/)| | | 
+| Code Connoisseurs | [Archit](https://www.linkedin.com/in/garg4/) \| [Sangram Patil](https://www.linkedin.com/in/sangram-patil-a90957170/) | Data Structure & Algorithms \| Deep Learning \| Web Dev | |
+| | [Ashutosh Kabra](https://www.linkedin.com/in/ashutosh-kabra-a349a1160/) \| [Aditya Tirmanwar](https://www.linkedin.com/in/aditya-tirmanwar-352a50171/)| Data Structure & Algorithms \| Game Theory \| ML \| Cloud Computing \| Web Dev | |
+| Conquerers in Action | [Prakhar Gupta](https://www.linkedin.com/in/prakhar-gupta-384b83156/) \| [Saswat Anoop](https://www.linkedin.com/in/saswat-anoop-836126151/)| Data Structure & Algorithms(CP) \| ML \| Android Dev \| Cross Platform App Dev \| Data Science | `conquerers.inaction@gmail.com` |
+| Innoverts | [Ved Prakash](https://www.linkedin.com/in/reachvedprakash/) \| [Anit Mahato](https://www.linkedin.com/in/anit-mahato-825147168/)| Data Structure & Algorithms \| ML \| Deep Learning \| Android Dev \| Cross Platform App Dev| `teaminnoverts@gmail.com` |
 
 ### Cadets:
 | `Team`| `Cadets`|
