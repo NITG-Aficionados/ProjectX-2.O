@@ -29,7 +29,7 @@
 
 | `Team`| `Captain`| `Experiences/Interests`| `Contact` |
 |:---:|:---------:|:---:|:---:|
-| |[Gautam Mishra](https://www.linkedin.com/in/gautam-mishra-446397a7/) \| [Rahul Priolkar](https://www.linkedin.com/in/rahul-priolkar-46938616a/)| | | 
+| Runtime Terror |[Gautam Mishra](https://www.linkedin.com/in/gautam-mishra-446397a7/) \| [Rahul Priolkar](https://www.linkedin.com/in/rahul-priolkar-46938616a/)| | `team.runtimeterror@gmail.com` | 
 | Code Connoisseurs | [Archit](https://www.linkedin.com/in/garg4/) \| [Sangram Patil](https://www.linkedin.com/in/sangram-patil-a90957170/) | Data Structure & Algorithms \| Deep Learning \| Web Dev | `connoisseurs.code@gmail.com` |
 | | [Ashutosh Kabra](https://www.linkedin.com/in/ashutosh-kabra-a349a1160/) \| [Aditya Tirmanwar](https://www.linkedin.com/in/aditya-tirmanwar-352a50171/)| Data Structure & Algorithms \| Game Theory \| ML \| Cloud Computing \| Web Dev | |
 | Kernel_Klan | [Prakhar Gupta](https://www.linkedin.com/in/prakhar-gupta-384b83156/) \| [Saswat Anoop](https://www.linkedin.com/in/saswat-anoop-836126151/)| Data Structure & Algorithms(CP) \| ML \| Android Dev \| Cross Platform App Dev \| Data Analytics | `conquerers.inaction@gmail.com` |
