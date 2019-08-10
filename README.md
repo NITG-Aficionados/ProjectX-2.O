@@ -28,12 +28,12 @@
 ### Teams :triangular_flag_on_post:
 
 | `Team`| `Captain`| `Experiences/Interests`| `Contact` | `Profile` |
-|-|-|-|-|-|
-| | Gautam Mishra & Rahul Priolkar| | | |
-| | Archit & Sangram Patil| | | |
-| | Ashutosh Kabra & Aditya Tirmanwar| | | |
-| | Prakhar Gupta & Saswat Anoop| | | |
-| | Ved Prakash & Anit Mahato| | | |
+|:---:|:---------:|:---:|:---:|:---:|
+| |Gautam Mishra \| Rahul Priolkar| | | |
+| Code Connoisseurs | [Archit](https://www.linkedin.com/in/garg4/) \| [Sangram Patil]() | Data Structure & Algorithms \| Deep Learning \| Web Dev | | [Profile 1] \|  |
+| | Ashutosh Kabra \| Aditya Tirmanwar| Data Structure & Algorithms \| Game Theory \| ML \| Cloud Computing \| Web Dev | | |
+| Conquerers in Action | Prakhar Gupta \| Saswat Anoop| Data Structure & Algorithms(CP) \| ML \| Android Dev \| Cross Platform App Dev \| Data Science | | |
+| Innoverts | Ved Prakash \| Anit Mahato| Data Structure & Algorithms \| ML \| Deep Learning \| Android Dev \| Cross Platform App Dev| | |
 
 ### Cadets:
 | `Team`| `Cadets`|
