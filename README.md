@@ -7,23 +7,22 @@
 
 ------
 
-**ProjectX** is the program run by Aficionados (Programming Society, NIT Goa) which aims at making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. 
+**ProjectX** is the program run by Aficionados (Programming Society, NIT Goa) which aims at making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. We believe that every student here at NITG should have an opportunity to learn how to code and develop a passion for it.
 
 ### How to get involved?
-1. Cadets should apply for getting into teams based on Captains profile through this form.
+1. Cadets should apply for getting into teams based on Captains profile through this form. <br>
 :link: 
 2. Specify your skill-set. `(Any MOOCs have taken before or any other relevant details)`
-3. Captains will choose cadets(`one or more from each junior year`) which they will take under their team.
+3. Captains will choose cadets(`from each junior year`) which they will take under their team.
 4. Done.
 
 > Just getting started with programming? You can also apply through the same link, we will provide you with a better platform to learn and practice efficiently
 
 ### Then What?
 1. Captain will guide, help and mentor his team members.
-2. After deciding upon a time, Each team will choose a CS/IT topic and design relevant challenges on it.
-3. After Knowing the topic other remaining teams will prepare for it, In which the captain will guide the team.
-4. Teams will compete in the challenges.
-5. LeaderBoard and archive will be maintained in this repo.
+2.  The Challenges will be floated span several genres, including Competitive Programming, Development, Open Source, Machine Learning, and Deep Learning.
+3. Also, each team will choose a CS/IT topic and design relevant challenges on it. After knowing the topic other remaining teams will prepare for it, In which the captain will guide the team.
+6. LeaderBoard and archive will be maintained in this repo.
 
 ### Teams :triangular_flag_on_post:
 
