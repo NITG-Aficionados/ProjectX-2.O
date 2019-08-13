@@ -11,7 +11,7 @@
 
 ### How to get involved?
 1. Cadets should apply for getting into teams based on Captains profile through this form. <br>
-:link: 
+:link: [Apply here](https://forms.gle/nHmUXq6ScjiRiPR98)
 2. Specify your skill-set. `(Any MOOCs have taken before or any other relevant details)`
 3. Captains will choose cadets(`from each junior year`) which they will take under their team.
 4. Done.
@@ -37,6 +37,11 @@
 ### Cadets:
 | `Team`| `Cadets`|
 |-|-|
+| Runtime Terror | |
+| Code Connoisseurs | |
+| Scode-ZAM! | |
+| Kernel_Klan | |
+| Innoverts | |
 
 ----
 
